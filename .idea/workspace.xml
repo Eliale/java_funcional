@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a6bb6705-4c10-499a-a9ba-9fc2bad8893e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambdas/principal/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambdas/principal/Principal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/principal/Principal.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,27 +27,38 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TPIDrioLS6QRizQ8e92ZEFRIXV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TRABAJO_antes/TRABAJO/autorizadorTaz-app/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -60,6 +80,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,12 +95,58 @@
       <workItem from="1573355367565" duration="600000" />
       <workItem from="1573399302910" duration="458000" />
       <workItem from="1573403313214" duration="89000" />
-      <workItem from="1573403496101" duration="391000" />
+      <workItem from="1573403496101" duration="1243000" />
+      <workItem from="1573432090411" duration="586000" />
+      <workItem from="1574138869008" duration="635000" />
+      <workItem from="1574831669781" duration="208000" />
+      <workItem from="1574917186096" duration="13000" />
+      <workItem from="1575007240257" duration="2354000" />
+      <workItem from="1575243518721" duration="632000" />
+      <workItem from="1576944711835" duration="18000" />
+      <workItem from="1577047829873" duration="532000" />
+      <workItem from="1577048900684" duration="165000" />
+      <workItem from="1581651933142" duration="771000" />
+      <workItem from="1581909979747" duration="165000" />
+      <workItem from="1585335649432" duration="383000" />
+      <workItem from="1595893435059" duration="970000" />
+      <workItem from="1595895296477" duration="3760000" />
+      <workItem from="1596240691753" duration="380000" />
+      <workItem from="1603244719611" duration="2534000" />
+      <workItem from="1604004738941" duration="592000" />
+      <workItem from="1604682586085" duration="109000" />
+      <workItem from="1604682723753" duration="195000" />
+      <workItem from="1604860792334" duration="514000" />
+      <workItem from="1605816849022" duration="4902000" />
+      <workItem from="1608581596101" duration="594000" />
+      <workItem from="1610055526000" duration="282000" />
+      <workItem from="1610056045016" duration="786000" />
+      <workItem from="1614993939253" duration="92000" />
+      <workItem from="1616562796929" duration="784000" />
+      <workItem from="1616563753806" duration="50000" />
+      <workItem from="1616688280283" duration="83000" />
+      <workItem from="1623382047016" duration="665000" />
+      <workItem from="1623640752901" duration="1584000" />
+      <workItem from="1624161441853" duration="81000" />
+      <workItem from="1624161653543" duration="853000" />
+      <workItem from="1624162825287" duration="532000" />
+      <workItem from="1624163426432" duration="2000" />
+      <workItem from="1624163482803" duration="34000" />
+      <workItem from="1629055444184" duration="304000" />
+      <workItem from="1629055868236" duration="404000" />
+      <workItem from="1633111993239" duration="2910000" />
     </task>
+    <task id="LOCAL-00001" summary="Segundo commit">
+      <created>1573404022164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573404022164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -116,10 +183,26 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/principal/Principal.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
